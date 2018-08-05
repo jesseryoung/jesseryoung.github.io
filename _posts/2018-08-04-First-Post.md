@@ -1,3 +1,9 @@
+---
+layout: post
+title: "First Post"
+date: 2018-08-04
+---
+
 First Post
 ==========
 
