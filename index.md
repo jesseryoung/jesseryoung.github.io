@@ -1,3 +1,5 @@
+Welcome - Jesse Young's Blog
+====================
 <ul class="posts">
     {% for post in site.posts %}
       <li>
