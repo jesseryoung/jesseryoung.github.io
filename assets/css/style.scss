@@ -1,9 +1,8 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 ul.posts {
-    all: initial;
-    list-style:none;
-}
-.posts li {
-    all:initial;
+    list-style: none;
 }

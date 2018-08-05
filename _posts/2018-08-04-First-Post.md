@@ -3,10 +3,6 @@ layout: post
 title: "First Post"
 date: 2018-08-04
 ---
-
-First Post
-==========
-
 So, this is the first post on this site. I figured that because I went through with setting up a blog why not make a post about it. Original idea right?
 
 Setting up a blog
