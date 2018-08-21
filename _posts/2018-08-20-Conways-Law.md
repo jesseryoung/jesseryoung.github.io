@@ -17,7 +17,7 @@ This is not unlike how software developers break up their code. Although, [exper
 
 Conway then suggests that when these sub-teams design, either the systems they design interact with another sub-team's design or they don't. If they do, then obviously the teams must have communicated in some fashion in order for them to interact. Therefore the teams communication structure mimics that of the software they wrote and vice-versa.
 
-Put bluntly: If two teams are required to produce stuff that must interact with each other, the quality of that interaction directly mirrors the quality of the teams interactions. If you have two teams who suck at communicating, guess what? The software they write together will suck too. 
+Put bluntly: If two teams are required to produce stuff that must interact with each other, the quality of that interaction directly mirrors the quality of the teams communication. If you have two teams who suck at communicating, guess what? The software they write together will suck too. 
 
 You can read the [whole paper here](http://www.melconway.com/research/committees.html) or a summarization he [posted here](http://www.melconway.com/Home/Conways_Law.html)
 
