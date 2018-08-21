@@ -27,7 +27,7 @@ I feel like Dev-Ops really strikes at the heart of Conway's argument here. Tradi
 
 While Dev-Ops original goals were to specifically _"reduce the time between committing a change to a system and the change being placed into normal production"_ the result I feel was a bit more than that. In order to achieve this, teams needed to work closer with their IT counterparts to ensure code is delivered quickly and consistently. Organizations did this by [literally merging their "Dev" and their "Ops" teams together.](https://stories.visualstudio.com/devops/)
 
-In a Dev-Ops world, no longer are developers allowed to throw code over the wall and just let Ops deal with it. No longer are developers left questioning "Did this actually deploy right?" Both are asked to be responsible for what is delivered, how it's delivered and how fast it can get there.
+In a Dev-Ops world, no longer are developers allowed to throw code over the wall and just let Ops deal with it. No longer are developers left questioning "Did this actually deploy right?" Both are asked to be responsible for what is delivered, how it's delivered and how fast it can get there. Their communication needed to improve, and by doing so, so did the quality.
 
 ## Agile Software Development
 Let's start by listing the core values listed in the agile manifest:
