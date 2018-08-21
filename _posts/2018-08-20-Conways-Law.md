@@ -41,7 +41,7 @@ Right there in the values, the very first bullet point you have _"Individuals an
 I've typically seen agile development as a way to organize a team and structure it's interactions. When you take into account Conway's law, what agile development is really about is how you design your software. 
 
 # Wrap-Up
-I feel like an important distinction to make here is that Conway's law isn't really about how team's should be structured. It's more about the sociology behind why teams function they do.
+I feel like an important distinction to make here is that Conway's law isn't really about how team's should be structured. It's more about the sociology behind why teams function the way they do.
 
 Sometimes we look inside a large organization at a dis-functional team, or a failed project and ask _"How on earth did it get this bad?"_ Thinking about Conway's law really helps us find where things broke down. 
 
